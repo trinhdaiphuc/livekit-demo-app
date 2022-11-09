@@ -1,6 +1,6 @@
 # Livekit demo app
 
-The Livekit demo application use [Livekit docker](https://docs.livekit.io/oss/deployment/vm/) and [Client-sdk-js](https://github.com/livekit/client-sdk-js) example
+The Livekit demo application use [Livekit container](https://docs.livekit.io/oss/deployment/vm/) and [Client-sdk-js](https://github.com/livekit/client-sdk-js) example
 
 ## Installation
 
@@ -63,7 +63,7 @@ yarn install
 yarn sample
 ```
 
-The command will open the browser on http://localhost:8080
+The command will open the web browser on http://localhost:8080
 
 ## Create a conference
 
