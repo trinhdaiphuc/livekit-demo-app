@@ -69,7 +69,7 @@ The command will open the web browser on http://localhost:8080
 
 - Go to the url http://localhost:8080 and enable your mic and camera.
 
-- Create a token by `livekit-cli` 
+- Create a token by `livekit-cli` with your `api-key` and `api-secret` in `livekit.yaml` file
 
 ```shell
 livekit-cli create-token \
@@ -89,4 +89,4 @@ livekit-cli create-token \
     --valid-for 24h
 ```
 
-- Open new tab Copy the token and pates to `Token` input. Then click connect.
+- Open new tab and go to the url http://localhost:8080. Copy the token and pates to `Token` input. Then click connect.
