@@ -42,7 +42,7 @@
   "dependencies": {
     "async-await-queue": "^1.2.1",
     "events": "^3.3.0",
-    "loglevel": "^1.8.0",
+    "loglevel": "^1.8.1",
     "protobufjs": "^7.0.0",
     "sdp-transform": "^2.14.1",
     "ts-debounce": "^4.0.0",
